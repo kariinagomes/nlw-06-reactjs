@@ -10,7 +10,7 @@ import { useRoom } from "../hooks/useRoom";
 import logoImg from "../assets/images/logo.svg";
 import deleteImg from "../assets/images/delete.svg";
 
-import "./Room/styles.scss";
+import "../styles/room.scss";
 
 type RoomParams = {
   id: string;
